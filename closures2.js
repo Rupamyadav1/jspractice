@@ -3,7 +3,7 @@ function add() {
     function plus() {counter += 1;}
     plus();  
    
-    return counter; 
+    return counter; //return
   }
 
   let cnt=0;
